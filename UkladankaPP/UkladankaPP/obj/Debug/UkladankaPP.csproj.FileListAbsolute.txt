@@ -1,0 +1,10 @@
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\bin\Debug\UkladankaPP.exe.config
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\bin\Debug\UkladankaPP.exe
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\bin\Debug\UkladankaPP.pdb
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.Form1.resources
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.Properties.Resources.resources
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.csproj.GenerateResource.Cache
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.exe
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.pdb
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.csprojAssemblyReference.cache
+C:\Users\Pimpek\Documents\Visual Studio 2015\Projects\UkladankaPP\UkladankaPP\obj\Debug\UkladankaPP.csproj.CoreCompileInputs.cache
