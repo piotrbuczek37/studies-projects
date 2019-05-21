@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zadanie - JS</title>
+<meta charset="UTF-8">
+<meta name="description" content="JS by Piotr Buczek">
+</head>
+<body onload="getData(), showJSON()">
+<div id="container">
+	<button onclick="sortBy('upvotes')">Sort JSON structure by upvotes</button>
+	<button onclick="sortBy('num_comments')">Sort JSON structure by number of comments</button>
+	<button onclick="sortBy('score')">Sort JSON structure by score</button>
+	<button onclick="sortBy('created')">Sort JSON structure by date</button>
+	<button onclick="bestRatio()">Show post title with the best ratio</button>
+	<button onclick="viewLastDay()">View posts only from the last day</button>
+	<p id="results">
+
+	</p>
+</div>
+<script src="funnyJSON.js"></script>
+</body>
+</html>

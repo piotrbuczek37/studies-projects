@@ -1,0 +1,89 @@
+html, body {
+		width: 100%;
+    	height: 100%;
+		margin: 0px;
+	}
+#container1{
+	width: 100%;
+	font-family: Arial;
+	margin-left: 12%;
+	background-color: red;
+}
+
+#menu-box{
+	height: 100%;
+	width: 12%;
+	background-color: grey;
+	float: left;
+	padding: 7px;
+	font-family: Arial;
+	position: fixed;
+}
+
+#box1{
+	float: left;
+	background-color: grey;
+	height: 70px;
+	width: 60%;
+	margin-left: 15%;
+	margin-top: 2%;
+	margin-bottom: 20px;
+	padding: 7px;
+}
+#box2{
+	float: left;
+	background-color: grey;
+	height: 70px;
+	width: 20%;
+	margin-left: 35%; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 7px;
+}
+#container2{
+	background-color: red;
+	clear: both;
+	margin-left: 12%;
+	width: 100%;
+	font-family: Arial;
+}
+#box3{
+	float: left;
+	background-color: grey;
+	height: 390px;
+	width: 10%;
+	margin-left: 15%; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 7px;
+}
+#box4{
+	float: left;
+	background-color: grey;
+	height: 170px;
+	width: 19%;
+	margin-left: 5%; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 7px;
+}
+#box5{
+	float: left;
+	background-color: grey;
+	height: 170px;
+	width: 19%;
+	margin-left: 5%; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 7px;
+}
+#box6{
+	float: left;
+	background-color: grey;
+	height: 170px;
+	width: 44%;
+	margin-left: 5%; 
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 7px;
+}
