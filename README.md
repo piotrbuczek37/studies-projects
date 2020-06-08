@@ -1,7 +1,13 @@
 # Welcome!
 This repository contains the source code for:
 - UkladankaPP (simple game created in Windows Forms in C#)
+<p align="center">
+  <img src="./UkladankaPP/gamescreen.png">
+ </p>
 - Buczek_Piotr_Snake (a Snake2D game project files created in Unity3D editor and C#)
+<p align="center">
+  <img src="./Buczek_Piotr_Snake/screen.png">
+ </p>
 - Unity 2D Game Scripts (scripts written in C# while making a 2D adventure platform game in Unity3D)
 - frontend_tasks (two web pages created for recruitment purposes - HTML, CSS, pure JavaScript)
 
